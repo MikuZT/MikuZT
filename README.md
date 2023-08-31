@@ -10,5 +10,7 @@ In short: I'm a web-devouring, cocoa-sipping, humor-infused female blend of chao
     </p>
   </div>
   <hr>
+  <div style="text-align: center">
   <img src="https://github.com/MikuZT/MikuZT/blob/main/pngwing.com.png?raw=true" style="width:200px">
+  </div>
 </div>
