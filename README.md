@@ -6,7 +6,7 @@
 
 My sense of humor is as quirky as a wonky CSS layout, and yes, I confess – I fell into the digital pot when I was little. But hey, that only makes me more enthusiastic about the cyberspace. Oh, and Hatsune Miku? My digital heroine and the ultimate karaoke partner.
 
-In short: I'm a web-devouring, cocoa-sipping, humor-infused female blend of chaos and code. Let's make the internet a more colorful place together! 🌈✨
+In short: I'm a web-devouring, cocoa-sipping, humor-infused blend of chaos and code. Let's make the internet a more colorful place together! 🌈✨
     </p>
   </div>
   <hr>
