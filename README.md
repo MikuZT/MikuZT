@@ -24,7 +24,7 @@
     </p>
   <hr>
       <p style="text-align: center">
-      Let's make the internet a more colorful place together! ✨💕
+      <h3>Let's make the internet a more colorful place together! ✨</h3>
     </p>
   </div>
   <hr>
