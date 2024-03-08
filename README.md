@@ -2,11 +2,18 @@
   <div style="width:75%">
     <h1>Hi hi,  I'm Miku – happy to meek you! ✨💕</h1>
     <p>
-      I'm your friendly female neighborhood web developer! I juggle code and cocoa like they're cupcakes at a festival. The internet? Well, I practically grew up there, amidst cat pictures and HTML tags.
+      I'm just your nerdy friendly female neighborhood web developer! 
 
-My sense of humor is as quirky as a wonky CSS layout, and yes, I confess – I fell into the digital pot when I was little. But hey, that only makes me more enthusiastic about the cyberspace. Oh, and Hatsune Miku? My digital heroine and the ultimate karaoke partner.
-
-In short: I'm a web-devouring, cocoa-sipping, humor-infused blend of chaos, diva and code. Let's make the internet a more colorful place together! 🌈✨
+      Who I am?
+      <ul>
+      <li>Civil Name: Miku</li>
+      <li>Sex: Female</li>
+      <li>Hobbys: Nothing special definied yet. I'm enjoying all sort of things. Mostly fashion and having fun outside</li>
+      <li>Languages: PHP, JavaScript/Typescript, (S)CSS, Html</li>
+      <li>Frameworks & Services: Laravel, Vue.js, Node, Kubernetes, Docker, GCP, Azure, OTC</li>
+      </ul>
+      
+      Let's make the internet a more colorful place together! 🌈✨
     </p>
   </div>
   <hr>
