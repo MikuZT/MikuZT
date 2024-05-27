@@ -27,8 +27,4 @@
       <h3>Let's make the internet a more colorful place together! ✨</h3>
     </p>
   </div>
-  <hr>
-  <div style="text-align: center">
-  <img src="https://github.com/MikuZT/MikuZT/blob/main/pngwing.com.png?raw=true" style="width:200px">
-  </div>
 </div>
